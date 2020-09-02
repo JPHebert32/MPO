@@ -11,6 +11,3 @@ https://docs.google.com/presentation/d/1RLN6tn1XhCiYOmm3uf2IDpbGS2PT3HV6IvdvmNjx
 Tableau Workbook avalible at: <br />
 https://public.tableau.com/profile/jp.hebert#!/vizhome/FinalProject_15988174325680/Dashboard1?publish=yes
 
-Data is avalible at: <br />
-https://drive.google.com/drive/folders/1Q4OeoqrRSkrAKAVUqLuKMRd-Z6Cj5zy6
-
