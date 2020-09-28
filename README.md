@@ -1,21 +1,18 @@
 # MANUFACTURING PROCESS OPTIMIZATION
 
 ### OVERVIEW<br />
-The client uses a vacuum distillation process to produce the final product.<br />
-A worthless byproduct is also produced through this process. I was tasked with cleaning,<br />
-analyzing, and modeling datasets to find the optimal settings for the distillation<br />
-process with the goal of reducing the amount of byproduct produced and increasing the amount<br />
-of usable product produced. 
+The client uses a vacuum distillation process to produce the final product. A worthless byproduct is also produced through this process. I was tasked with cleaning, analyzing, and modeling datasets to find the optimal settings for the distillation process with the goal of reducing the amount of byproduct produced and increasing the amount of usable product produced. 
 
 ### PROGRAMMING LANGUAGE
 PYTHON
 
-##### LIBRARIES USED            ML MODELS USED<br />
-PANDAS                          RANDOM FOREST REGRESSOR<br />
-NUMPY                           DECISION TREE REGRESSOR<br />
-SEABORN                         LINEAR REGRESSION<br />
-MATPLOTLIB                      RIDGE<br />		
-SCKIT LEARN                     K-NEIGHBOR REGRESSOR<br />
+|LIBRARIES USED|ML MODELS USED         |
+|--------------|----------------------:|
+|PANDAS        |RANDOM FOREST REGRESSOR|
+|NUMPY         |DECISION TREE REGRESSOR|
+|SEABORN       |LINEAR REGRESSION      |
+|MATPLOTLIB    |RIDGE                  |	
+|SCKIT LEARN   |K-NEIGHBOR REGRESSOR   |
 
 
 Google Slides avalible at : <br />
