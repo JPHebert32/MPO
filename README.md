@@ -1,6 +1,6 @@
 # MANUFACTURING PROCESS OPTIMIZATION
 
-### OVERVIEW<br />
+### OVERVIEW
 The client uses a vacuum distillation process to produce the final product. A worthless byproduct is also produced through this process. I was tasked with cleaning, analyzing, and modeling datasets to find the optimal settings for the distillation process with the goal of reducing the amount of byproduct produced and increasing the amount of usable product produced. 
 
 ### PROGRAMMING LANGUAGE
