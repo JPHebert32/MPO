@@ -10,19 +10,13 @@ of usable product produced.
 ### PROGRAMMING LANGUAGE
 PYTHON
 
-##### LIBRARIES USED
-PANDAS<br />
-NUMPY<br />
-SEABORN<br />
-MATPLOTLIB<br />
-SCKIT LEARN br />
+##### LIBRARIES USED		ML MODELS USED<br />
+PANDAS				RANDOM FOREST REGRESSOR<br />
+NUMPY				DECISION TREE REGRESSOR<br />
+SEABORN				LINEAR REGRESSION<br />
+MATPLOTLIB			RIDGE<br />		
+SCKIT LEARN			K-NEIGHBOR REGRESSOR<br />
 
-### ML MODELS USED<br />
-RANDOM FOREST REGRESSOR<br />
-DECISION TREE REGRESSOR<br />
-LINEAR REGRESSION<br />
-RIDGE<br />
-K-NEIGHBOR REGRESSOR<br />
 
 Google Slides avalible at : <br />
 https://docs.google.com/presentation/d/1RLN6tn1XhCiYOmm3uf2IDpbGS2PT3HV6IvdvmNjxu2M/edit?usp=sharing
