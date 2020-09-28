@@ -6,13 +6,13 @@ The client uses a vacuum distillation process to produce the final product. A wo
 ### PROGRAMMING LANGUAGE
 PYTHON
 
-|LIBRARIES USED  |ML MODELS USED         |
-|----------------|:----------------------|
-|PANDAS          |RANDOM FOREST REGRESSOR|
-|NUMPY           |DECISION TREE REGRESSOR|
-|SEABORN         |LINEAR REGRESSION      |
-|MATPLOTLIB      |RIDGE                  |	
-|SCKIT LEARN     |K-NEIGHBOR REGRESSOR   |
+|LIBRARIES USED       |ML MODELS USED         |
+|---------------------|:----------------------|
+|PANDAS               |RANDOM FOREST REGRESSOR|
+|NUMPY                |DECISION TREE REGRESSOR|
+|SEABORN              |LINEAR REGRESSION      |
+|MATPLOTLIB           |RIDGE                  |	
+|SCKIT LEARN          |K-NEIGHBOR REGRESSOR   |
 
 
 Google Slides avalible at : <br />
