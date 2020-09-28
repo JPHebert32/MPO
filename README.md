@@ -7,7 +7,7 @@ The client uses a vacuum distillation process to produce the final product. A wo
 PYTHON
 
 |LIBRARIES USED  |ML MODELS USED         |
-|----------------|-----------------------|
+|----------------|:----------------------|
 |PANDAS          |RANDOM FOREST REGRESSOR|
 |NUMPY           |DECISION TREE REGRESSOR|
 |SEABORN         |LINEAR REGRESSION      |
