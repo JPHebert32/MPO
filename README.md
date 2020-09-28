@@ -1,9 +1,28 @@
-# Final-Project
+# MANUFACTURING PROCESS OPTIMIZATION
 
-For my Finale Project, I will be using Machine Learning to predict ‘B_Yield Variance VTB’. <br />
-Also, know as (vacuum bottoms yield variance) VTB is a by-product from the extraction of wax from crude oil. <br />
-The only restrictions I have are I can only use only the other variables that start with Y_ as your predictors.
- 
+###OVERVIEW
+The client uses a vacuum distillation process to produce the final product.<br />
+A worthless byproduct is also produced through this process. I was tasked with cleaning,<br />
+analyzing, and modeling datasets to find the optimal settings for the distillation<br />
+process with the goal of reducing the amount of byproduct produced and increasing the amount<br />
+of usable product produced. 
+
+###PROGRAMMING LANGUAGE
+PYTHON
+
+##### LIBRARIES USED
+PANDAS
+NUMPY
+SEABORN
+MATPLOTLIB
+SCKIT LEARN
+
+###ML MODELS USED
+RANDOM FOREST REGRESSOR
+DECISION TREE REGRESSOR
+LINEAR REGRESSION
+RIDGE
+K-NEIGHBOR REGRESSOR
 
 Google Slides avalible at : <br />
 https://docs.google.com/presentation/d/1RLN6tn1XhCiYOmm3uf2IDpbGS2PT3HV6IvdvmNjxu2M/edit?usp=sharing
